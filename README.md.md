@@ -6,6 +6,7 @@
 A data analytics project analyzing 3,900 customer purchase records to uncover trends in spending behavior, top-selling categories, and the impact of discounts. This project connects Python, MySQL, and Power BI to turn raw data into actionable business insights.
 
 **Dataset Overview**
+- Dataset - 
 - Total Records: 3,900  
 - Columns: 18  
 - Key Fields: Customer_ID, Age, Gender, Item_Purchased, Category, Purchase_Amount, Discount_Applied, Review_Rating, Subscription_Status, Shipping_Type  
@@ -20,35 +21,15 @@ A data analytics project analyzing 3,900 customer purchase records to uncover tr
 - Suggested actionable business recommendations to improve future sales.
 
 
-
 ## Image
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview]([assets/dashboard.png](https://github.com/awasthisakshi000-code/customer_purchase_insights_python_sql_powerbi/blob/main/dashboard.png.png))
 
 ## List
-- Python (Pandas, NumPy, SQLAlchemy)
+- Excel (initial exploration)
+- Python (Pandas, NumPy, SQLAlchemy, Jupyter Notebook)
 - MySQL Workbench
 - Power BI
-- Jupyter Notebook
-- Excel (initial exploration)
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
+- Git
 
 
 ## How it works
@@ -86,21 +67,16 @@ jupyter notebook
 # (Optional) Load data into MySQL
 python load_to_mysql.py
 
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
 
 ## Contact
 👩‍💻 **Author:** Sakshi Awasthi  
-📧 **Email:** awasthi.sakshi000@gmail.com.com  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sakshiawasthi000)
+📧 **Email:** awasthi.sakshi000@gmail.com 
+🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sakshiawasthi000/)
 
 ## License
 This project is created for learning and portfolio purposes.  
 Feel free to explore, fork, and adapt it with credit.
 
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
