@@ -2,25 +2,14 @@
 # Customer Purchase Insights
 
 
-## Paragraph
-A data analytics project analyzing 3,900 customer purchase records to uncover trends in spending behavior, top-selling categories, and the impact of discounts.  
-This project connects Python, MySQL, and Power BI to turn raw data into actionable business insights.
+## Summary
+A data analytics project analyzing 3,900 customer purchase records to uncover trends in spending behavior, top-selling categories, and the impact of discounts. This project connects Python, MySQL, and Power BI to turn raw data into actionable business insights.
 
 **Dataset Overview**
 - Total Records: 3,900  
 - Columns: 18  
 - Key Fields: Customer_ID, Age, Gender, Item_Purchased, Category, Purchase_Amount, Discount_Applied, Review_Rating, Subscription_Status, Shipping_Type  
 - Missing Values: 37 in 'Review_Rating' column (imputed with median)
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 
 ## Features
 
@@ -113,4 +102,5 @@ Feel free to explore, fork, and adapt it with credit.
 
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
