@@ -33,13 +33,14 @@ A data analytics project analyzing 3,900 customer purchase records to uncover tr
 
 
 ## How it works
-1. Cleaned and prepared the dataset in Python.  
+1. Cleaned and prepared the dataset in Python. ([assets/Customer_Shopping_Behavior](https://github.com/awasthisakshi000-code/customer_purchase_insights_python_sql_powerbi/blob/main/Customer_Shopping_Behavior.ipynb)) 
 2. Loaded the cleaned data into a MySQL database using SQLAlchemy.  
 3. Ran SQL queries to explore purchase behavior, discounts, and product performance. ([assets/sqlqueries_customer_shopping_behavior](https://github.com/awasthisakshi000-code/customer_purchase_insights_python_sql_powerbi/blob/main/sqlqueries_customer_shopping_behavior.sql))
 4. Imported SQL results into Power BI for dashboard creation. ([assets/dashboard.png](https://github.com/awasthisakshi000-code/customer_purchase_insights_python_sql_powerbi/blob/main/dashboard.png.png))
-5. Delivered key insights and recommendations for future growth. 
+5. Delivered key insights and recommendations for future growth. ([assetss/report_customer_purchasing_behavior](https://github.com/awasthisakshi000-code/customer_purchase_insights_python_sql_powerbi/blob/main/report_customer_purchase_insights.pdf))
 
-## Insights
+## Insights 
+![Dashboard Preview]([assets/dashboard.png](https://github.com/awasthisakshi000-code/customer_purchase_insights_python_sql_powerbi/blob/main/dashboard.png.png))
 - Young Adults are the most active and highest-spending group.  
 - Clothing and Accessories generate the highest revenue.  
 - Around 27% of customers are subscribers — opportunity to expand recurring sales.  
@@ -76,6 +77,7 @@ python load_to_mysql.py
 ## License
 This project is created for learning and portfolio purposes.  
 Feel free to explore, fork, and adapt it with credit.
+
 
 
 
